@@ -11,4 +11,3 @@ Have each category contain 10 food options
 Include the amount of calories in each food option
 Generate a balanced, healthy meal for someone based on the desired amount of calories
 '''
- 
