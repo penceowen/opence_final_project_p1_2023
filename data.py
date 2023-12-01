@@ -47,15 +47,15 @@ pork = {
 
 
 
-print(category["protein"])
+print(["protein"])
 
 meal = []
 
-meal.append(chicken["category"])
-meal.append(chicken["category"])
-meal.append(chicken["category"])
-meal.append(chicken["category"])
-meal.append(Salmon["category"])
+meal.append(chicken["protein"])
+meal.append(salmon["protein"])
+meal.append(milk["protein"])
+meal.append(turkey["protein"])
+meal.append(blackbeans["protein"])
 
 print(meal)
 
