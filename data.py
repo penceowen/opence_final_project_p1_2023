@@ -56,6 +56,9 @@ meal.append(salmon["protein"])
 meal.append(milk["protein"])
 meal.append(turkey["protein"])
 meal.append(blackbeans["protein"])
+meal.append(beef["protein"])
+meal.append(tuna["protein"])
+meal.append(almonds["protein"])
 
 print(meal)
 
